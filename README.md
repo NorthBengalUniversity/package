@@ -2,4 +2,4 @@
 # What is this?
 this is universal package for all student.
 # Installetion
-'npm i nbu --save'
+npm i nbu --save
